@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-
+/* body, header, main, footer */
 body {
   display: block;
   margin-left: auto;
@@ -48,7 +48,7 @@ header h1 {
 	border: none;
 }
 
-
+/* fonts and such*/
 h1, h2, h3, h4, h5, h6 {
   text-align: center;
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
